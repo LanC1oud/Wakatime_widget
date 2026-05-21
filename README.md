@@ -2,8 +2,6 @@
 
 一个轻量级的 Windows 桌面悬浮小组件，实时展示 WakaTime 编码统计，支持历史语言排行榜与今日时长切换。
 
-![widget-preview](https://via.placeholder.com/340x460/1e1e2e/cdd6f4?text=WakaTime+Widget)
-
 ## 功能
 
 - **语言排行榜** — 水平彩色条形图展示各语言时长占比
